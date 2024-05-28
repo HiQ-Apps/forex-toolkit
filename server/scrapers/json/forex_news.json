@@ -1,0 +1,128 @@
+[
+    {
+        "currency": "N/A",
+        "event": "N/A",
+        "actual": "N/A",
+        "forecast": "N/A",
+        "previous": "N/A"
+    },
+    {
+        "currency": "CHF",
+        "event": "SNB Chairman Jordan Speaks",
+        "actual": "",
+        "forecast": "",
+        "previous": ""
+    },
+    {
+        "currency": "USD",
+        "event": "FOMC Member Bowman Speaks",
+        "actual": "",
+        "forecast": "",
+        "previous": ""
+    },
+    {
+        "currency": "USD",
+        "event": "FOMC Member Mester Speaks",
+        "actual": "",
+        "forecast": "",
+        "previous": ""
+    },
+    {
+        "currency": "JPY",
+        "event": "BOJ Core CPI y/y",
+        "actual": "1.8%",
+        "forecast": "2.2%",
+        "previous": "2.2%"
+    },
+    {
+        "currency": "EUR",
+        "event": "German WPI m/m",
+        "actual": "0.4%",
+        "forecast": "0.1%",
+        "previous": "0.2%"
+    },
+    {
+        "currency": "GBP",
+        "event": "CBI Realized Sales",
+        "actual": "8",
+        "forecast": "-24",
+        "previous": "-44"
+    },
+    {
+        "currency": "CAD",
+        "event": "IPPI m/m",
+        "actual": "1.5%",
+        "forecast": "0.8%",
+        "previous": "0.9%"
+    },
+    {
+        "currency": "CAD",
+        "event": "RMPI m/m",
+        "actual": "5.5%",
+        "forecast": "3.1%",
+        "previous": "4.3%"
+    },
+    {
+        "currency": "USD",
+        "event": "S&P/CS Composite-20 HPI y/y",
+        "actual": "7.4%",
+        "forecast": "7.3%",
+        "previous": "7.3%"
+    },
+    {
+        "currency": "USD",
+        "event": "HPI m/m",
+        "actual": "0.1%",
+        "forecast": "0.5%",
+        "previous": "1.2%"
+    },
+    {
+        "currency": "USD",
+        "event": "CB Consumer Confidence",
+        "actual": "102.0",
+        "forecast": "96.0",
+        "previous": "97.5"
+    },
+    {
+        "currency": "USD",
+        "event": "FOMC Member Cook Speaks",
+        "actual": "",
+        "forecast": "",
+        "previous": ""
+    },
+    {
+        "currency": "USD",
+        "event": "FOMC Member Daly Speaks",
+        "actual": "",
+        "forecast": "",
+        "previous": ""
+    },
+    {
+        "currency": "AUD",
+        "event": "MI Leading Index m/m",
+        "actual": "",
+        "forecast": "",
+        "previous": "-0.1%"
+    },
+    {
+        "currency": "NZD",
+        "event": "ANZ Business Confidence",
+        "actual": "",
+        "forecast": "",
+        "previous": "14.9"
+    },
+    {
+        "currency": "AUD",
+        "event": "CPI y/y",
+        "actual": "",
+        "forecast": "3.4%",
+        "previous": "3.5%"
+    },
+    {
+        "currency": "AUD",
+        "event": "Construction Work Done q/q",
+        "actual": "",
+        "forecast": "0.6%",
+        "previous": "0.7%"
+    }
+]

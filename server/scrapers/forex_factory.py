@@ -71,6 +71,10 @@ def save_to_csv(data, filename):
 def print_as_json(data):
     print(json.dumps(data, indent=4))
 
+def save_to_json(data, filename):
+    with open(filename, 'w', encoding='utf-8') as output_file:
+        json.dump(data, output_file, ensure_ascii=False, indent=4)
+
 def main():
     url = "https://www.forexfactory.com"
     page_source = fetch_page_source(url)
@@ -78,6 +82,7 @@ def main():
 
     # Save to CSV
     save_to_csv(data, 'csv/forex_news.csv')
+    save_to_json(data, 'json/forex_news.json')
 
     # Print as JSON
     print_as_json(data)
