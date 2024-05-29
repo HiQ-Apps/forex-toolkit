@@ -16,10 +16,8 @@ def fetch_page_source(url):
 def parse_content(html):
     soup = BeautifulSoup(html, 'html.parser')
     
-    # Debug: print the title of the page
     print(f"Page Title: {soup.title.string}")
 
-    # Find the calendar rows
     calendar_rows = soup.find_all('tr', class_='calendar__row')
     print(f"Found {len(calendar_rows)} calendar rows")
 
@@ -27,27 +25,21 @@ def parse_content(html):
 
     for row in calendar_rows:
         try:
-            # Extracting currency
             currency = row.find('td', class_='calendar__cell calendar__currency')
             currency_text = currency.get_text(strip=True) if currency else 'N/A'
 
-            # Extracting event title
             event_detail = row.find('td', class_='calendar__cell calendar__event')
             event_text = event_detail.get_text(strip=True) if event_detail else 'N/A'
 
-            # Extracting actual value
             actual = row.find('td', class_='calendar__cell calendar__actual')
             actual_text = actual.get_text(strip=True) if actual else 'N/A'
 
-            # Extracting forecast value
             forecast = row.find('td', class_='calendar__cell calendar__forecast')
             forecast_text = forecast.get_text(strip=True) if forecast else 'N/A'
 
-            # Extracting previous value
             previous = row.find('td', class_='calendar__cell calendar__previous')
             previous_text = previous.get_text(strip=True) if previous else 'N/A'
-
-            # Add the row to the data list
+            
             data.append({
                 "currency": currency_text,
                 "event": event_text,
@@ -80,11 +72,9 @@ def main():
     page_source = fetch_page_source(url)
     data = parse_content(page_source)
 
-    # Save to CSV
     save_to_csv(data, 'csv/forex_news.csv')
     save_to_json(data, 'json/forex_news.json')
 
-    # Print as JSON
     print_as_json(data)
 
 if __name__ == "__main__":
