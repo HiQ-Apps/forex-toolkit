@@ -1,0 +1,152 @@
+[
+    {
+        "date": "N/A",
+        "time": "12:59am",
+        "currency": "JPY",
+        "impact": "low",
+        "event": "Consumer Confidence",
+        "actual": "36.2",
+        "forecast": "39.1",
+        "previous": "38.3"
+    },
+    {
+        "date": "WedMay 29",
+        "time": "2:00am",
+        "currency": "EUR",
+        "impact": "low",
+        "event": "German GfK Consumer Climate",
+        "actual": "-20.9",
+        "forecast": "-22.5",
+        "previous": "-24.0"
+    },
+    {
+        "date": "WedMay 29",
+        "time": "All Day",
+        "currency": "EUR",
+        "impact": "high",
+        "event": "German Prelim CPI m/m",
+        "actual": "0.1%",
+        "forecast": "0.2%",
+        "previous": "0.5%"
+    },
+    {
+        "date": "WedMay 29",
+        "time": "4:00am",
+        "currency": "CHF",
+        "impact": "low",
+        "event": "UBS Economic Expectations",
+        "actual": "18.2",
+        "forecast": "",
+        "previous": "17.6"
+    },
+    {
+        "date": "WedMay 29",
+        "time": "",
+        "currency": "EUR",
+        "impact": "low",
+        "event": "M3 Money Supply y/y",
+        "actual": "1.3%",
+        "forecast": "1.3%",
+        "previous": "0.9%"
+    },
+    {
+        "date": "WedMay 29",
+        "time": "",
+        "currency": "EUR",
+        "impact": "low",
+        "event": "Private Loans y/y",
+        "actual": "0.2%",
+        "forecast": "0.4%",
+        "previous": "0.2%"
+    },
+    {
+        "date": "WedMay 29",
+        "time": "9:59am",
+        "currency": "USD",
+        "impact": "medium",
+        "event": "Richmond Manufacturing Index",
+        "actual": "0",
+        "forecast": "-6",
+        "previous": "-7"
+    },
+    {
+        "date": "WedMay 29",
+        "time": "1:45pm",
+        "currency": "USD",
+        "impact": "low",
+        "event": "FOMC Member Williams Speaks",
+        "actual": "",
+        "forecast": "",
+        "previous": ""
+    },
+    {
+        "date": "WedMay 29",
+        "time": "2:00pm",
+        "currency": "USD",
+        "impact": "low",
+        "event": "Beige Book",
+        "actual": "",
+        "forecast": "",
+        "previous": ""
+    },
+    {
+        "date": "WedMay 29",
+        "time": "6:45pm",
+        "currency": "NZD",
+        "impact": "low",
+        "event": "Building Consents m/m",
+        "actual": "-1.9%",
+        "forecast": "",
+        "previous": "-0.2%"
+    },
+    {
+        "date": "WedMay 29",
+        "time": "6:50pm",
+        "currency": "AUD",
+        "impact": "low",
+        "event": "RBA Assist Gov Hunter Speaks",
+        "actual": "",
+        "forecast": "",
+        "previous": ""
+    },
+    {
+        "date": "WedMay 29",
+        "time": "7:00pm",
+        "currency": "USD",
+        "impact": "low",
+        "event": "FOMC Member Bostic Speaks",
+        "actual": "",
+        "forecast": "",
+        "previous": ""
+    },
+    {
+        "date": "WedMay 29",
+        "time": "8:00pm",
+        "currency": "CHF",
+        "impact": "medium",
+        "event": "SNB Chairman Jordan Speaks",
+        "actual": "",
+        "forecast": "",
+        "previous": ""
+    },
+    {
+        "date": "WedMay 29",
+        "time": "9:30pm",
+        "currency": "AUD",
+        "impact": "low",
+        "event": "Building Approvals m/m",
+        "actual": "",
+        "forecast": "1.8%",
+        "previous": "1.9%"
+    },
+    {
+        "date": "WedMay 29",
+        "time": "",
+        "currency": "AUD",
+        "impact": "low",
+        "event": "Private Capital Expenditure q/q",
+        "actual": "",
+        "forecast": "0.6%",
+        "previous": "0.8%"
+    }
+]

@@ -1,0 +1,641 @@
+[
+    {
+        "time": "01:00",
+        "currency": "JPY",
+        "impact": "low",
+        "event": "Household Confidence (May)",
+        "actual": "N/A",
+        "forecast": "39.1",
+        "previous": "N/A"
+    },
+    {
+        "time": "02:00",
+        "currency": "EUR",
+        "impact": "medium",
+        "event": "GfK German Consumer Climate (Jun)",
+        "actual": "N/A",
+        "forecast": "-22.5",
+        "previous": "N/A"
+    },
+    {
+        "time": "02:45",
+        "currency": "EUR",
+        "impact": "low",
+        "event": "French Consumer Confidence (May)",
+        "actual": "N/A",
+        "forecast": "91",
+        "previous": "N/A"
+    },
+    {
+        "time": "03:00",
+        "currency": "EUR",
+        "impact": "low",
+        "event": "Spanish Retail Sales (YoY) (Apr)",
+        "actual": "N/A",
+        "forecast": "",
+        "previous": "N/A"
+    },
+    {
+        "time": "04:00",
+        "currency": "EUR",
+        "impact": "low",
+        "event": "Italian Business Confidence (May)",
+        "actual": "N/A",
+        "forecast": "88.1",
+        "previous": "N/A"
+    },
+    {
+        "time": "04:00",
+        "currency": "EUR",
+        "impact": "low",
+        "event": "Italian Consumer Confidence (May)",
+        "actual": "N/A",
+        "forecast": "96.0",
+        "previous": "N/A"
+    },
+    {
+        "time": "04:00",
+        "currency": "CHF",
+        "impact": "low",
+        "event": "ZEW Expectations (May)",
+        "actual": "N/A",
+        "forecast": "",
+        "previous": "N/A"
+    },
+    {
+        "time": "04:00",
+        "currency": "EUR",
+        "impact": "low",
+        "event": "Baden Wuerttemberg CPI (YoY) (May)",
+        "actual": "N/A",
+        "forecast": "",
+        "previous": "N/A"
+    },
+    {
+        "time": "04:00",
+        "currency": "EUR",
+        "impact": "low",
+        "event": "Baden Wuerttemberg CPI (MoM)",
+        "actual": "N/A",
+        "forecast": "",
+        "previous": "N/A"
+    },
+    {
+        "time": "04:00",
+        "currency": "EUR",
+        "impact": "low",
+        "event": "Bavaria CPI (YoY) (May)",
+        "actual": "N/A",
+        "forecast": "",
+        "previous": "N/A"
+    },
+    {
+        "time": "04:00",
+        "currency": "EUR",
+        "impact": "low",
+        "event": "Bavaria CPI (MoM) (May)",
+        "actual": "N/A",
+        "forecast": "",
+        "previous": "N/A"
+    },
+    {
+        "time": "04:00",
+        "currency": "EUR",
+        "impact": "low",
+        "event": "Brandenburg CPI (MoM) (May)",
+        "actual": "N/A",
+        "forecast": "",
+        "previous": "N/A"
+    },
+    {
+        "time": "04:00",
+        "currency": "EUR",
+        "impact": "low",
+        "event": "Brandenburg CPI (YoY) (May)",
+        "actual": "N/A",
+        "forecast": "",
+        "previous": "N/A"
+    },
+    {
+        "time": "04:00",
+        "currency": "EUR",
+        "impact": "low",
+        "event": "Hesse CPI (YoY) (May)",
+        "actual": "N/A",
+        "forecast": "",
+        "previous": "N/A"
+    },
+    {
+        "time": "04:00",
+        "currency": "EUR",
+        "impact": "low",
+        "event": "Hesse CPI (MoM) (May)",
+        "actual": "N/A",
+        "forecast": "",
+        "previous": "N/A"
+    },
+    {
+        "time": "04:00",
+        "currency": "EUR",
+        "impact": "low",
+        "event": "North Rhine Westphalia CPI (YoY) (May)",
+        "actual": "N/A",
+        "forecast": "",
+        "previous": "N/A"
+    },
+    {
+        "time": "04:00",
+        "currency": "EUR",
+        "impact": "low",
+        "event": "North Rhine Westphalia CPI (MoM) (May)",
+        "actual": "N/A",
+        "forecast": "",
+        "previous": "N/A"
+    },
+    {
+        "time": "04:00",
+        "currency": "EUR",
+        "impact": "low",
+        "event": "Saxony CPI (YoY) (May)",
+        "actual": "N/A",
+        "forecast": "",
+        "previous": "N/A"
+    },
+    {
+        "time": "04:00",
+        "currency": "EUR",
+        "impact": "low",
+        "event": "Saxony CPI (MoM) (May)",
+        "actual": "N/A",
+        "forecast": "",
+        "previous": "N/A"
+    },
+    {
+        "time": "04:00",
+        "currency": "EUR",
+        "impact": "low",
+        "event": "M3 Money Supply (YoY) (Apr)",
+        "actual": "N/A",
+        "forecast": "1.3%",
+        "previous": "N/A"
+    },
+    {
+        "time": "04:00",
+        "currency": "EUR",
+        "impact": "low",
+        "event": "M3 Money Supply (Apr)",
+        "actual": "N/A",
+        "forecast": "",
+        "previous": "N/A"
+    },
+    {
+        "time": "04:00",
+        "currency": "EUR",
+        "impact": "low",
+        "event": "Loans to Non Financial Corporations (Apr)",
+        "actual": "N/A",
+        "forecast": "",
+        "previous": "N/A"
+    },
+    {
+        "time": "04:00",
+        "currency": "EUR",
+        "impact": "low",
+        "event": "Private Sector Loans (YoY)",
+        "actual": "N/A",
+        "forecast": "0.4%",
+        "previous": "N/A"
+    },
+    {
+        "time": "05:00",
+        "currency": "EUR",
+        "impact": "low",
+        "event": "Italian Trade Balance Non-EU (Apr)",
+        "actual": "N/A",
+        "forecast": "",
+        "previous": "N/A"
+    },
+    {
+        "time": "06:00",
+        "currency": "EUR",
+        "impact": "low",
+        "event": "Italian 6-Month BOT Auction",
+        "actual": "N/A",
+        "forecast": "",
+        "previous": "N/A"
+    },
+    {
+        "time": "07:00",
+        "currency": "USD",
+        "impact": "low",
+        "event": "MBA 30-Year Mortgage Rate",
+        "actual": "N/A",
+        "forecast": "",
+        "previous": "N/A"
+    },
+    {
+        "time": "07:00",
+        "currency": "USD",
+        "impact": "low",
+        "event": "MBA Mortgage Applications (WoW)",
+        "actual": "N/A",
+        "forecast": "",
+        "previous": "N/A"
+    },
+    {
+        "time": "07:00",
+        "currency": "USD",
+        "impact": "low",
+        "event": "MBA Purchase Index",
+        "actual": "N/A",
+        "forecast": "",
+        "previous": "N/A"
+    },
+    {
+        "time": "07:00",
+        "currency": "USD",
+        "impact": "low",
+        "event": "Mortgage Market Index",
+        "actual": "N/A",
+        "forecast": "",
+        "previous": "N/A"
+    },
+    {
+        "time": "07:00",
+        "currency": "USD",
+        "impact": "low",
+        "event": "Mortgage Refinance Index",
+        "actual": "N/A",
+        "forecast": "",
+        "previous": "N/A"
+    },
+    {
+        "time": "07:00",
+        "currency": "BRL",
+        "impact": "low",
+        "event": "Brazilian IGP-M Inflation (YoY) (May)",
+        "actual": "N/A",
+        "forecast": "",
+        "previous": "N/A"
+    },
+    {
+        "time": "07:00",
+        "currency": "BRL",
+        "impact": "low",
+        "event": "IGP-M Inflation Index (MoM) (May)",
+        "actual": "N/A",
+        "forecast": "0.84%",
+        "previous": "N/A"
+    },
+    {
+        "time": "07:30",
+        "currency": "INR",
+        "impact": "low",
+        "event": "M3 Money Supply",
+        "actual": "N/A",
+        "forecast": "",
+        "previous": "N/A"
+    },
+    {
+        "time": "07:30",
+        "currency": "BRL",
+        "impact": "low",
+        "event": "Net Debt-to-GDP ratio (Apr)",
+        "actual": "N/A",
+        "forecast": "",
+        "previous": "N/A"
+    },
+    {
+        "time": "07:30",
+        "currency": "BRL",
+        "impact": "low",
+        "event": "CAGED Net Payroll Jobs (Apr)",
+        "actual": "N/A",
+        "forecast": "216.95K",
+        "previous": "N/A"
+    },
+    {
+        "time": "07:30",
+        "currency": "BRL",
+        "impact": "low",
+        "event": "Budget Balance (Apr)",
+        "actual": "N/A",
+        "forecast": "-47.100B",
+        "previous": "N/A"
+    },
+    {
+        "time": "07:30",
+        "currency": "BRL",
+        "impact": "low",
+        "event": "Budget Surplus (Apr)",
+        "actual": "N/A",
+        "forecast": "",
+        "previous": "N/A"
+    },
+    {
+        "time": "07:30",
+        "currency": "BRL",
+        "impact": "medium",
+        "event": "Gross Debt-to-GDP ratio (MoM) (Apr)",
+        "actual": "N/A",
+        "forecast": "",
+        "previous": "N/A"
+    },
+    {
+        "time": "08:00",
+        "currency": "EUR",
+        "impact": "medium",
+        "event": "German CPI (YoY) (May)",
+        "actual": "N/A",
+        "forecast": "2.4%",
+        "previous": "N/A"
+    },
+    {
+        "time": "08:00",
+        "currency": "EUR",
+        "impact": "high",
+        "event": "German CPI (MoM) (May)",
+        "actual": "N/A",
+        "forecast": "0.2%",
+        "previous": "N/A"
+    },
+    {
+        "time": "08:00",
+        "currency": "EUR",
+        "impact": "low",
+        "event": "German HICP (MoM) (May)",
+        "actual": "N/A",
+        "forecast": "0.2%",
+        "previous": "N/A"
+    },
+    {
+        "time": "08:00",
+        "currency": "EUR",
+        "impact": "low",
+        "event": "German HICP (YoY) (May)",
+        "actual": "N/A",
+        "forecast": "2.7%",
+        "previous": "N/A"
+    },
+    {
+        "time": "08:00",
+        "currency": "BRL",
+        "impact": "medium",
+        "event": "Unemployment Rate (Apr)",
+        "actual": "N/A",
+        "forecast": "7.7%",
+        "previous": "N/A"
+    },
+    {
+        "time": "08:55",
+        "currency": "USD",
+        "impact": "low",
+        "event": "Redbook (YoY)",
+        "actual": "N/A",
+        "forecast": "",
+        "previous": "N/A"
+    },
+    {
+        "time": "10:00",
+        "currency": "USD",
+        "impact": "low",
+        "event": "Richmond Manufacturing Index (May)",
+        "actual": "N/A",
+        "forecast": "-6",
+        "previous": "N/A"
+    },
+    {
+        "time": "10:00",
+        "currency": "USD",
+        "impact": "low",
+        "event": "Richmond Manufacturing Shipments (May)",
+        "actual": "N/A",
+        "forecast": "",
+        "previous": "N/A"
+    },
+    {
+        "time": "10:00",
+        "currency": "USD",
+        "impact": "low",
+        "event": "Richmond Services Index (May)",
+        "actual": "N/A",
+        "forecast": "",
+        "previous": "N/A"
+    },
+    {
+        "time": "10:30",
+        "currency": "USD",
+        "impact": "low",
+        "event": "Dallas Fed Services Revenues (May)",
+        "actual": "N/A",
+        "forecast": "",
+        "previous": "N/A"
+    },
+    {
+        "time": "10:30",
+        "currency": "USD",
+        "impact": "low",
+        "event": "Texas Services Sector Outlook (May)",
+        "actual": "N/A",
+        "forecast": "",
+        "previous": "N/A"
+    },
+    {
+        "time": "12:00",
+        "currency": "RUB",
+        "impact": "low",
+        "event": "Industrial Production (YoY) (Apr)",
+        "actual": "N/A",
+        "forecast": "4.2%",
+        "previous": "N/A"
+    },
+    {
+        "time": "13:00",
+        "currency": "USD",
+        "impact": "medium",
+        "event": "7-Year Note Auction",
+        "actual": "N/A",
+        "forecast": "",
+        "previous": "N/A"
+    },
+    {
+        "time": "13:30",
+        "currency": "BRL",
+        "impact": "low",
+        "event": "Foreign Exchange Flows",
+        "actual": "N/A",
+        "forecast": "",
+        "previous": "N/A"
+    },
+    {
+        "time": "13:45",
+        "currency": "USD",
+        "impact": "medium",
+        "event": "FOMC Member Williams Speaks",
+        "actual": "N/A",
+        "forecast": "",
+        "previous": "N/A"
+    },
+    {
+        "time": "14:00",
+        "currency": "USD",
+        "impact": "medium",
+        "event": "Beige Book",
+        "actual": "N/A",
+        "forecast": "",
+        "previous": "N/A"
+    },
+    {
+        "time": "16:30",
+        "currency": "USD",
+        "impact": "medium",
+        "event": "API Weekly Crude Oil Stock",
+        "actual": "N/A",
+        "forecast": "-1.900M",
+        "previous": "N/A"
+    },
+    {
+        "time": "18:45",
+        "currency": "NZD",
+        "impact": "low",
+        "event": "Building Consents (MoM) (Apr)",
+        "actual": "N/A",
+        "forecast": "",
+        "previous": "N/A"
+    },
+    {
+        "time": "19:00",
+        "currency": "USD",
+        "impact": "medium",
+        "event": "FOMC Member Bostic Speaks",
+        "actual": "N/A",
+        "forecast": "",
+        "previous": "N/A"
+    },
+    {
+        "time": "19:50",
+        "currency": "JPY",
+        "impact": "low",
+        "event": "Foreign Bonds Buying",
+        "actual": "N/A",
+        "forecast": "",
+        "previous": "N/A"
+    },
+    {
+        "time": "19:50",
+        "currency": "JPY",
+        "impact": "low",
+        "event": "Foreign Investments in Japanese Stocks",
+        "actual": "N/A",
+        "forecast": "",
+        "previous": "N/A"
+    },
+    {
+        "time": "20:00",
+        "currency": "CHF",
+        "impact": "medium",
+        "event": "SNB Board Member Jordan Speaks",
+        "actual": "N/A",
+        "forecast": "",
+        "previous": "N/A"
+    },
+    {
+        "time": "21:00",
+        "currency": "NZD",
+        "impact": "low",
+        "event": "Budget Balance (Jan)",
+        "actual": "N/A",
+        "forecast": "",
+        "previous": "N/A"
+    },
+    {
+        "time": "21:00",
+        "currency": "NZD",
+        "impact": "low",
+        "event": "Net Debt Forecast (Jan)",
+        "actual": "N/A",
+        "forecast": "",
+        "previous": "N/A"
+    },
+    {
+        "time": "21:00",
+        "currency": "NZD",
+        "impact": "low",
+        "event": "Economic Forecast (Jan)",
+        "actual": "N/A",
+        "forecast": "",
+        "previous": "N/A"
+    },
+    {
+        "time": "21:30",
+        "currency": "AUD",
+        "impact": "low",
+        "event": "Building Approvals (YoY) (Apr)",
+        "actual": "N/A",
+        "forecast": "",
+        "previous": "N/A"
+    },
+    {
+        "time": "21:30",
+        "currency": "AUD",
+        "impact": "medium",
+        "event": "Building Approvals (MoM) (Apr)",
+        "actual": "N/A",
+        "forecast": "1.8%",
+        "previous": "N/A"
+    },
+    {
+        "time": "21:30",
+        "currency": "AUD",
+        "impact": "low",
+        "event": "Building Capital Expenditure (MoM) (Q1)",
+        "actual": "N/A",
+        "forecast": "",
+        "previous": "N/A"
+    },
+    {
+        "time": "21:30",
+        "currency": "AUD",
+        "impact": "low",
+        "event": "Plant/Machinery Capital Expenditure (QoQ) (Q1)",
+        "actual": "N/A",
+        "forecast": "",
+        "previous": "N/A"
+    },
+    {
+        "time": "21:30",
+        "currency": "AUD",
+        "impact": "low",
+        "event": "Private House Approvals (Apr)",
+        "actual": "N/A",
+        "forecast": "",
+        "previous": "N/A"
+    },
+    {
+        "time": "21:30",
+        "currency": "AUD",
+        "impact": "medium",
+        "event": "Private New Capital Expenditure (QoQ) (Q1)",
+        "actual": "N/A",
+        "forecast": "0.6%",
+        "previous": "N/A"
+    },
+    {
+        "time": "22:00",
+        "currency": "NZD",
+        "impact": "medium",
+        "event": "Annual Budget Release",
+        "actual": "N/A",
+        "forecast": "",
+        "previous": "N/A"
+    },
+    {
+        "time": "23:35",
+        "currency": "JPY",
+        "impact": "low",
+        "event": "2-Year JGB Auction",
+        "actual": "N/A",
+        "forecast": "",
+        "previous": "N/A"
+    }
+]
